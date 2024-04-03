@@ -1,2 +1,2 @@
 # pet_projects
-pet projects from courses and other sources
+Pet projects from courses and other sources
