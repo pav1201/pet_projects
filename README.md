@@ -1,5 +1,6 @@
 # pet_projects
 Pet projects from courses and other sources
+* [BERT text sentiment analysis](https://github.com/pav1201/pet_projects/blob/main/projects/BERT_sentiment_text_analysis.ipynb)
 * [Customer churn prediction with CatBoost](https://github.com/pav1201/pet_projects/blob/main/projects/customer_churn_prediction.ipynb)
 * [Gold purification efficiency forecast with custom loss function](https://github.com/pav1201/pet_projects/blob/main/projects/coal_smape.ipynb)
 * [Taxi orders prediction](https://github.com/pav1201/pet_projects/blob/main/projects/taxi_orders_prediction.ipynb)
